@@ -3,6 +3,7 @@ body {
 }
 a {
     text-decoration: none;
+    color: blue;
 }
 h1 {
     font-size:60px; text-align: center;
